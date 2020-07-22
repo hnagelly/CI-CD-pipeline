@@ -2,3 +2,4 @@ test push 2 master to branch
 test push 3 local master to remote master
 test push 4 local master to remote master
 test push 5 local master to remote master
+test push 6 local master to remote master with rebase
